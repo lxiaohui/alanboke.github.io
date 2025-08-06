@@ -5,6 +5,7 @@ import { webpackBundler } from '@vuepress/bundler-webpack'
 
 export default defineUserConfig({
   dest:'dist',
+  base: './',
   title: "前端团队文档库",
   description: "前端团队文档库",
   bundler: viteBundler(),
