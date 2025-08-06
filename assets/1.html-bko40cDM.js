@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app-OBUVoyLF.js";const n={};function c(o,r){return a(),t("div")}const s=e(n,[["render",c],["__file","1.html.vue"]]),i=JSON.parse('{"path":"/categories/fenxiangchendian/1.html","title":"","lang":"en-US","frontmatter":{"layout":"Categories"},"headers":[],"git":{},"filePathRelative":null}');export{s as comp,i as data};
