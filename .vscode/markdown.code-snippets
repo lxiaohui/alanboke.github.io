@@ -1,0 +1,19 @@
+{
+  "add docs head info": {
+    "scope": "markdown",
+    "prefix": "header-info",
+    "body": [
+      "---",
+      "title: 文章标题",
+      "date: \"2024-11-01\"",
+      "categories:",
+      "  - XXXX",
+      "tags:",
+      "  - XXXX",
+      "author: 作者",
+      "publish: true",
+      "---"
+    ],
+    "description": "添加文章的文件头信息"
+  }
+}
